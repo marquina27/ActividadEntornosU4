@@ -3,7 +3,7 @@ package cuentas.clientes;
 public class Main {
 
     public static void main(String[] args) {
-        operativa_cuenta(0.0F);
+        operativa_cuenta(500.0F);
     }
 
     private static void operativa_cuenta(float cantidad) {
