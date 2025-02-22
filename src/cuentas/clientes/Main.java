@@ -1,7 +1,22 @@
 package cuentas.clientes;
 
+
+/**
+ * 
+ * @author Jesús Marquina Alarcón
+ * @version 1.0
+ * @since 21/02/2025
+ * 
+ */
+
 public class Main {
 
+    
+    /**
+     * 
+     * @param args Argumentos linea comandos
+     */
+    
     public static void main(String[] args) {
         operativa_cuenta(500.0F);
     }
